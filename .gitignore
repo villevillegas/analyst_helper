@@ -1,3 +1,6 @@
+*.db
+
+
 #analyst_helper_env
 analyst_helper_env/
 
